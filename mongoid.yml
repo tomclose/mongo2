@@ -1,0 +1,8 @@
+development:
+  sessions:
+    default:
+      hosts:
+        - localhost:27017
+      database: mongo2
+  options:
+    raise_not_found_error: false
